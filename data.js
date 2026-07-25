@@ -1,4 +1,11 @@
         const newsFeed = [
+                  {
+    title: "Update Apk neXai v6.4",
+    badge: "Update apk",
+    desc: "Update? \n- ubah tampilan\n- fix bug kembali\n- fix bug search\n- bisa dipake offline/online. alhamdulilah apk nya udh mimin perbaiki/update semaksimal mungkin, nantikan update selanjutnya yahh ",
+    date: "Sabtu, 25 Juli 2026",
+    iconClass: "fa-solid fa-download"
+},
           {
     title: "Update Aplikasi Ditunda Sementara, hp keriset wok",
     badge: "Info Penting",
