@@ -1676,6 +1676,12 @@
   name: "CloudMoon",
   url: "https://cloudmoonapp.com/",
   description: "Cloud gaming HP. Main Genshin, HSR, Wuthering Waves, Roblox tanpa download. Cuma butuh 15MB."
+},
+  {
+  id: 268,
+  name: "Anichin",
+  url: "https://Anichin.care",
+  description: "Anichin.care adalah platform streaming & download Donghua subtitle Indonesia #1."
 }
 
 ];
