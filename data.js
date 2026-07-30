@@ -1,4 +1,11 @@
         const newsFeed = [
+        {
+    "title": "Ada Web Baru Nih: neXbug",
+    "badge": "Info Penting",
+    "desc": "Halo semua 👋\n\nMimin baru bikin web baru namanya neXbug.cloud 🐛\n\nGunanya simpel:\n1. Kalian nemu bug di apk neXai\n2. Langsung lapor di web neXbug\n3. Nanti mimin yang fix in di update berikut nya\n\nJadi mimin bisa tau orang² yang kesusahan karena bug di apk neXai,\nYuk mampir dan laporin bug kalian disana yaa\nAlhamdulilah semoga bermanfaat 😋🌹",
+    "date": "Kamis, 30 Juli 2026",
+    "iconClass": "fa-solid fa-circle-info"
+},
                   {
     title: "Update Apk neXai v6.4",
     badge: "Update apk",
