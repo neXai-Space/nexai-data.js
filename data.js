@@ -1682,6 +1682,12 @@
   name: "Anichin",
   url: "https://Anichin.care",
   description: "Anichin.care adalah platform streaming & download Donghua subtitle Indonesia #1."
+},
+ {
+  id: 269,
+  name: "neXbug - Cloud",
+  url: "http://nexbug.starpit.my.id/",
+  description: "neXbug.cloud hadir sebagai solusi praktis dan efisien untuk menjembatani komunikasi antara pengguna dan tim pengembang dalam melaporkan error, glitch, hingga celah keamanan (security issue)."
 }
 
 ];
