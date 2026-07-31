@@ -1695,6 +1695,283 @@
   name: "neXbug - Cloud",
   url: "http://nexbug.starpit.my.id/",
   description: "neXbug.cloud hadir sebagai solusi praktis dan efisien untuk menjembatani komunikasi antara pengguna dan tim pengembang dalam melaporkan error, glitch, hingga celah keamanan (security issue)."
-}
+},
+  {
+    id: 270,
+    name: "WolframAlpha",
+    url: "https://www.wolframalpha.com/",
+    description: "Mesin komputasi pintar untuk menyelesaikan soal Matematika, Fisika, Kimia, hingga data Ekonomi."
+  },
+  {
+    id: 271,
+    name: "PhET Interactive Simulations",
+    url: "https://phet.colorado.edu/",
+    description: "Simulasi interaktif sains (Fisika, Kimia, Biologi) dan Matematika gratis dari University of Colorado."
+  },
+  {
+    id: 272,
+    name: "Cerdas Finansial (Sikapi Uangmu - OJK)",
+    url: "https://sikapiuangmu.ojk.go.id/",
+    description: "Portal resmi OJK berisi edukasi keuangan, kalkulator perencanaan masa depan, dan tips kelola uang."
+  },
+  {
+    id: 273,
+    name: "Kemendag - Bappebti",
+    url: "https://bappebti.go.id/",
+    description: "Cek legalitas platform investasi, crypto, forex, dan berjangka di Indonesia biar aman dari penipuan."
+  },
+  {
+    id: 274,
+    name: "Bank Indonesia - Kurs & Data",
+    url: "https://www.bi.go.id/",
+    description: "Cek informasi indikator ekonomi nasional, inflasi, serta nilai tukar mata uang resmi dari Bank Indonesia."
+  },
+  {
+    id: 275,
+    name: "Gutenberg Project",
+    url: "https://www.gutenberg.org/",
+    description: "Perpustakaan digital berisi 70.000+ buku sastra klasik dunia yang bisa didownload gratis dan legal."
+  },
+  {
+    id: 276,
+    name: "Remove.bg Video (Unscreen)",
+    url: "https://www.unscreen.com/",
+    description: "Hapus background video secara otomatis tanpa menggunakan greenscreen."
+  },
+  {
+    id: 277,
+    name: "Roadmap.sh",
+    url: "https://roadmap.sh/",
+    description: "Panduan alur belajar (roadmap) lengkap untuk web developer, DevOps, Android dev, dan AI engineer."
+  },
+  {
+    id: 278,
+    name: "Overleaf",
+    url: "https://www.overleaf.com/",
+    description: "Editor LaTeX online untuk menyusun dokumen akademik, laporan ilmiah, dan rumus matematika rapi."
+  },
+  {
+    id: 279,
+    name: "Radio Garden",
+    url: "https://radio.garden/",
+    description: "Dengarkan siaran radio live dari seluruh pelosok kota di seluruh dunia melalui peta bola dunia 3D."
+  },
+  {
+    id: 280,
+    name: "Fast.com",
+    url: "https://fast.com/",
+    description: "Cek kecepatan internet tanpa iklan dari Netflix, simpel dan cepat."
+  },
+  {
+    id: 281,
+    name: "10Minutemail",
+    url: "https://10minutemail.com/",
+    description: "Email sementara yang langsung hancur dalam 10 menit untuk verifikasi tanpa takut spam."
+  },
+  {
+    id: 282,
+    name: "VirusTotal",
+    url: "https://www.virustotal.com/",
+    description: "Cek file APK atau link URL apakah aman dari virus, malware, atau phishing secara gratis."
+  },
+  {
+    id: 283,
+    name: "Draw.io (diagrams.net)",
+    url: "https://app.diagrams.net/",
+    description: "Bikin flowchart, pemetaan database, dan arsitektur sistem secara gratis tanpa install."
+  },
+  {
+    id: 284,
+    name: "Scribbr Citation Generator",
+    url: "https://www.scribbr.com/citation/generator/",
+    description: "Generator daftar pustaka dan sitasi otomatis format APA, MLA, Harvard untuk tugas sekolah/kampus."
+  },
+  {
+    id: 285,
+    name: "MoneySim / Monefy Web",
+    url: "https://www.monefy.com/",
+    description: "Tools sederhana dan interaktif untuk belajar simulasi mengelola pengeluaran dan pemasukan harian."
+  },
+  {
+    id: 286,
+    name: "EdX",
+    url: "https://www.edx.org/",
+    description: "Platform kursus online gratis dari universitas top dunia seperti Harvard dan MIT."
+  },
+  {
+    id: 287,
+    name: "Geogebra",
+    url: "https://www.geogebra.org/",
+    description: "Software matematika interaktif untuk belajar geometri, aljabar, kalkulus, dan grafik 3D."
+  },
+  {
+    id: 288,
+    name: "Simulated Trading (Investopedia)",
+    url: "https://www.investopedia.com/simulator/",
+    description: "Simulasi trading pasar saham gratis untuk latihan investasi tanpa risiko uang sungguhan."
+  },
+  {
+    id: 289,
+    name: "Investopedia",
+    url: "https://www.investopedia.com/",
+    description: "Kamus dan panduan lengkap istilah finansial, investasi, pasar saham, dan ekonomi."
+  },
+  {
+    id: 290,
+    name: "KoinWorks",
+    url: "https://koinworks.com/",
+    description: "Super financial app untuk investasi P2P lending dan pengembangan finansial UMKM."
+  },
+  {
+    id: 291,
+    name: "World Bank Data",
+    url: "https://data.worldbank.org/",
+    description: "Database indikator pembangunan global dan data ekonomi terbuka dari Bank Dunia."
+  },
+  {
+    id: 292,
+    name: "Carbon Fact",
+    url: "https://www.footprintcalculator.org/",
+    description: "Kalkulator jejak karbon pribadi untuk menghitung dampaknya terhadap lingkungan harian."
+  },
+  {
+    id: 293,
+    name: "Wolfram Alpha Math",
+    url: "https://www.wolframalpha.com/input?i=math",
+    description: "Kalkulator komputasi visual untuk langkah-langkah penyelesaian kalkulus dan aljabar."
+  },
+  {
+    id: 294,
+    name: "Archive.org (Wayback Machine)",
+    url: "https://archive.org/",
+    description: "Perpustakaan digital gratis berisi jutaan buku, file, serta riwayat tampilan web masa lalu."
+  },
+  {
+    id: 295,
+    name: "PDF2Go",
+    url: "https://www.pdf2go.com/",
+    description: "Tools online gratis untuk mengedit, mengompres, dan memperbaiki dokumen PDF yang rusak."
+  },
+  {
+    id: 296,
+    name: "Convertio",
+    url: "https://convertio.co/id/",
+    description: "Konverter file online terlengkap untuk berbagai format gambar, dokumen, audio, dan video."
+  },
+  {
+    id: 297,
+    name: "AlternativeTo",
+    url: "https://alternativeto.net/",
+    description: "Cari alternatif software atau web gratis untuk menggantikan aplikasi berbayar."
+  },
+  {
+    id: 298,
+    name: "SQLZoo",
+    url: "https://sqlzoo.net/",
+    description: "Tutorial interaktif langsung dari browser untuk belajar query database SQL dari nol."
+  },
+  {
+    id: 299,
+    name: "Flaticon UI",
+    url: "https://www.flaticon.com/uicons",
+    description: "Koleksi icon UI khusus interface aplikasi dan web yang siap pakai."
+  },
+  {
+    id: 300,
+    name: "Worldometers",
+    url: "https://www.worldometers.info/",
+    description: "Statistik real-time populasi dunia, ekonomi, lingkungan, dan kesehatan global."
+  },
+  {
+    id: 301,
+    name: "Tinkercad",
+    url: "https://www.tinkercad.com/",
+    description: "Platform belajar desain 3D gratis dan simulasi rangkaian elektronik/Arduino secara visual."
+  },
+  {
+    id: 302,
+    name: "Brilliant.org",
+    url: "https://brilliant.org/",
+    description: "Tempat belajar Matematika, Fisika, dan Computer Science dengan pendekatan pemecahan masalah interaktif."
+  },
+  {
+    id: 303,
+    name: "Kementrian Keuangan - Edukasi APBN",
+    url: "https://www.kemenkeu.go.id/apbnkita",
+    description: "Portal resmi data APBN dan edukasi tata kelola ekonomi makro negara Indonesia."
+  },
+  {
+    id: 304,
+    name: "Finansialku",
+    url: "https://www.finansialku.com/",
+    description: "Portal edukasi perencanaan keuangan, artikel investasi, dan manajemen keuangan keluarga."
+  },
+  {
+    id: 305,
+    name: "SECOORA Marine Weather",
+    url: "https://secoora.org/",
+    description: "Data dan peta interaktif analisis cuaca serta kondisi oseanografi/kelautan secara real-time."
+  },
+  {
+    id: 306,
+    name: "Open Library",
+    url: "https://openlibrary.org/",
+    description: "Perpustakaan digital terbuka dengan misi menyediakan halaman web untuk setiap buku yang pernah diterbitkan."
+  },
+  {
+    id: 307,
+    name: "CleanPNG",
+    url: "https://www.cleanpng.com/",
+    description: "Download gambar transparan bermutu tinggi (PNG) tanpa background gratis untuk desain."
+  },
+  {
+    id: 308,
+    name: "JSON Placeholder",
+    url: "https://jsonplaceholder.typicode.com/",
+    description: "Free fake REST API gratis buat latihan fetch data dan pengujian integrasi frontend web."
+  },
+  {
+    id: 309,
+    name: "CSS Scan (Box Shadows)",
+    url: "https://getcssscan.com/css-box-shadow-examples",
+    description: "Kumpulan 90+ contoh CSS box-shadow siap pakai dengan sekali klik copy."
+  },
+  {
+    id: 310,
+    name: "Ninite",
+    url: "https://ninite.com/",
+    description: "Download dan install banyak software PC sekaligus secara otomatis tanpa iklan bawaan."
+  },
+  {
+    id: 311,
+    name: "Temp Mail",
+    url: "https://temp-mail.org/id/",
+    description: "Layanan disposable email gratis untuk menghindari spam saat pendaftaran web trial."
+  },
+  {
+    id: 312,
+    name: "Monkeytype",
+    url: "https://monkeytype.com/",
+    description: "Website tes dan latihan kecepatan mengetik (typing test) yang terkesan minimalis dan customizable."
+  },
+  {
+    id: 313,
+    name: "Excalibur Draw",
+    url: "https://excalidraw.com/",
+    description: "Virtual whiteboard dengan gaya corak gambar tangan (hand-drawn) untuk bikin arsitektur dan sketsa."
+  },
+  {
+    id: 314,
+    name: "Goodreads",
+    url: "https://www.goodreads.com/",
+    description: "Database buku, ulasan pembaca, dan platform rekomendasi bacaan terlengkap di dunia."
+  },
+  {
+    id: 315,
+    name: "Biteable",
+    url: "https://biteable.com/",
+    description: "Pembuat video promosi dan presentasi berbasis template sederhana untuk pemula."
+  }
+
 
 ];
