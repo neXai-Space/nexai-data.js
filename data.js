@@ -1,4 +1,11 @@
         const newsFeed = [
+          {
+    title: "haloo? apakah ada orng?",
+    badge: "test",
+    desc: "haloo, selamat pagi semuanya.... mimin udh jarang update nexai search yahh, mimin terakhir kali update ini apk tanggal 22 juli, udh g kerasa 1 bulan mimin ga ada kabar update, masih ada yang pake ini apk kan? semoga aja si masih ya, bantu support trus...... btw mimin udh update nexai v6.9.2 (728), kalo mau update langsung aja ke NewAppStore ya!!!",
+    date: "Sabtu, 22 Agustus 2026",
+    iconClass: "fa-solid fa-bullhorn"
+},
         {
     "title": "Ada Web Baru Nih: neXbug",
     "badge": "Info Penting",
