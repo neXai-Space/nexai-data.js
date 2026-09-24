@@ -1,6 +1,6 @@
         const newsFeed = [
     {
-    title: hari hari apa yang enak?",
+    title: "hari hari apa yang enak?",
     badge: "kiw kiw",
     desc: "hari inikan cair, awokawokawok..... hehe, mimin lgi cair wok, aslinya Mimin mau update besar²an ni apk, kapan² aja dehhh udh itu aja makasih.",
     date: "Kamis, 24 September 2026",
