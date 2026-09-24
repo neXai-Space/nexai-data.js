@@ -4,7 +4,7 @@
     badge: "kiw kiw",
     desc: "hari inikan cair, awokawokawok..... hehe, mimin lgi cair wok, aslinya Mimin mau update besar²an ni apk, kapan² aja dehhh udh itu aja makasih.",
     date: "Kamis, 24 September 2026",
-    iconClass: "fa-solid fa-bullhorn"
+    iconClass: "fa-solid fa-face-laugh"
 },
           {
     title: "haloo? apakah ada orng?",
